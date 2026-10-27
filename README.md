@@ -13,7 +13,7 @@
 
 <br/>
 
-`Jabalpur, MP` · `MITS Gwalior` · Technical Co-Head, AI Club · GFG Student Chapter
+`Jabalpur, MP` · `MITS Gwalior` · Technical Head, AI Club · GFG Student Chapter
 
 </div>
 
