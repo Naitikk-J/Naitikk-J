@@ -29,23 +29,21 @@ Code Coalescence winner for **Reconnect Hub**. HackSagon '25 finalist with **CRX
 
 | | Project | What it is |
 |---|---|---|
-| 🎓 | **[Reconnect Hub](https://github.com/Naitikk-J/Alumini.mits)** | Alumni network for MITS. Code Coalescence winner. |
-| 🎪 | **[Aarunya](https://github.com/Naitikk-J/AarunyaMITS)** | Fest site in Three.js, with a live Mapbox layer. |
-| 📦 | **[TrackMate](https://github.com/Naitikk-J/TRACKMATE_IIITGWL)** | Logistics tracker. HackSagon '26 finalist. [Build](https://github.com/Naitikk-J/TrackMateFinalproj) |
-| 🪪 | **[SmartID](https://github.com/Naitikk-J/SmartID-Frontend)** | Campus identity, scans, and faculty tooling. [API](https://github.com/Naitikk-J/SmartID-Backend) · [Mobile](https://github.com/Naitikk-J/reactnative-smart-id) |
-| 🌿 | **[CRX](https://github.com/Naitikk-J/Blockchain_Based_Carbon_Credit_System_CRX)** | Blockchain carbon-credit system. HackSagon '25 finalist. |
-| 🔎 | **[Trace Insight](https://github.com/Naitikk-J/trace-insight)** | On-chain investigation workspace. SIH build. |
-| 🛂 | **[DIGIPASS](https://github.com/Naitikk-J/DIGIPASS-BACKEND)** | Credential and pass backend. [Frontend](https://github.com/Naitikk-J/polished-frontends) |
-| 🎟️ | **[VerifyPocket](https://github.com/Naitikk-J/VerifyPocket)** | Digital credential passport. |
-| ✈️ | **[Safarmate](https://github.com/Naitikk-J/billbookapp)** | Admin portal for a travel-agency OS. |
-| 💊 | **[PharmaLocator](https://github.com/Naitikk-J/PharmaLocator)** | 24/7 pharmacies in Indore, when Google Maps is not enough. |
-| 💼 | **[HireMind](https://github.com/Naitikk-J/HireMind)** | Hiring workspace. |
-| 🤍 | **[Pregnancy Companion](https://github.com/Naitikk-J/pregnancy-app)** | A companion app for the pregnancy journey. |
-| 🌿 | **[Follicle+](https://github.com/Naitikk-J/Follicle-)** | Personal hair-wellness companion. |
-| 🎨 | **[AJ Draw](https://github.com/Naitikk-J/AJDRAW-final)** | Real-time drawing. [API](https://github.com/Naitikk-J/AJDraw_Backend) · [Flutter](https://github.com/Naitikk-J/v0-real-time-drawing-app) |
-| 🌐 | **[naitik.site](https://github.com/Naitikk-J/naitik.site)** | This portfolio, and an earlier take at [aura](https://github.com/Naitikk-J/aura-portfolio). |
-
-Also out in the open: [AI Storybook](https://github.com/Naitikk-J/ai-storybook) · [Image Retrieve](https://github.com/Naitikk-J/imageretrieve-ai) · [GFG Chapter frontend](https://github.com/Naitikk-J/GFG_Frontend) · [SDE interview roadmap](https://github.com/Naitikk-J/SDE-Interview-and-Prep-Roadmap) · [studio](https://github.com/Naitikk-J/studio)
+| 🎓 | **Reconnect Hub** | Alumni network for MITS. Code Coalescence winner. |
+| 🎪 | **Aarunya** | Fest site in Three.js, with a live Mapbox layer. |
+| 📦 | **TrackMate** | Logistics tracker. HackSagon '26 finalist. |
+| 🪪 | **SmartID** | Campus identity, scans, and faculty tooling. |
+| 🌿 | **CRX** | Blockchain carbon-credit system. HackSagon '25 finalist. |
+| 🔎 | **Trace Insight** | On-chain investigation workspace. SIH build. |
+| 🛂 | **DIGIPASS** | Credential and pass backend. |
+| 🎟️ | **VerifyPocket** | Digital credential passport. |
+| ✈️ | **Safarmate** | Admin portal for a travel-agency OS. |
+| 💊 | **PharmaLocator** | 24/7 pharmacies in Indore, when Google Maps is not enough. |
+| 💼 | **HireMind** | Hiring workspace. |
+| 🤍 | **Pregnancy Companion** | A companion app for the pregnancy journey. |
+| 🌿 | **Follicle+** | Personal hair-wellness companion. |
+| 🎨 | **AJ Draw** | Real-time drawing. |
+| 🌐 | **[naitik.site](https://naitik.site)** | This portfolio. |
 
 ## Stack
 
